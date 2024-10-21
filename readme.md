@@ -2,6 +2,9 @@
 
 这个项目用于监控 GitHub 上的特定关键词，并将更新发送到 Telegram 群组。
 
+## 运行控制台输出
+![PixPin_2024-10-21_19-06-38](https://github.com/user-attachments/assets/c52db853-d5be-479b-a02d-08e997ca7af8)
+
 ## 目录结构
    - app.py # 主程序入口
    - config.py # 配置文件
