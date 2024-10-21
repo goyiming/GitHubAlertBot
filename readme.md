@@ -3,13 +3,13 @@
 这个项目用于监控 GitHub 上的特定关键词，并将更新发送到 Telegram 群组。
 
 ## 目录结构
-app.py # 主程序入口
-config.py # 配置文件
-database.py # 数据库操作
-github_monitor.py # GitHub 监控逻辑
-message_sender.py # Telegram 消息发送
-requirements.txt # 项目依赖
-README.md # 项目说明文档
+   - app.py # 主程序入口
+   - config.py # 配置文件
+   - database.py # 数据库操作
+   - github_monitor.py # GitHub 监控逻辑
+   - message_sender.py # Telegram 消息发送
+   - requirements.txt # 项目依赖
+   - README.md # 项目说明文档
 
 ## 功能特点
 
